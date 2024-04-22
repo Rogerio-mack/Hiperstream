@@ -1,5 +1,7 @@
-# Hiperstream
+![imagem](https://github.com/Rogerio-mack/Hiperstream/blob/main/hiperstream_logo.png?raw=true)
+
 FCI EE Hackathon 2024 - Desafio Hiperstream
+
 
 ## Mentorias Hiperstream
 
