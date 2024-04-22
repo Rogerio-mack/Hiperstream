@@ -21,7 +21,7 @@ Mentorias da Hiperstream acontecem TERÇA-FEIRA, QUARTA-FEIRA, QUINTA-FEIRA, nos
 
 * [ppt da apresentação](https://github.com/Rogerio-mack/Hiperstream/raw/main/Hackaton%20Mackenzie%202024.pptx)
 
-* [vídeo da conferência (*aguarde, estamos subindo a gravação)]()
+* [vídeo da conferência (*aguarde, estamos subindo a gravação*)]()
 
 ## Mentorias, Suporte professores EE
 
