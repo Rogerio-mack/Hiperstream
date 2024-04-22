@@ -7,7 +7,7 @@ FCI EE Hackathon 2024 - Desafio Hiperstream
 
 Mentorias da Hiperstream acontecem TERÇA-FEIRA, QUARTA-FEIRA, QUINTA-FEIRA, nos seguintes horários: 16:00h, 17:00h e 19:00h, o líder deve assinalar o horário de preferência de sua equipe no formulário abaixo.
 
-* Link da monitoria: https://discord.com/invite/RjUGP2uq 
+* Link da mentoria: https://discord.com/invite/RjUGP2uq 
 
 ![imagem](https://github.com/Rogerio-mack/Hiperstream/blob/main/qrcode_discord.png?raw=true)
 
